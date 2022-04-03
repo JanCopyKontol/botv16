@@ -1,7 +1,7 @@
 {
-  "name": "BotWa",
+  "name": "BotWangsaf",
   "version": "1.0.0",
-  "description": "Lexxy Botz",
+  "description": "NyatirBot",
   "main": "main.js",
   "directories": {
     "lib": "lib"
